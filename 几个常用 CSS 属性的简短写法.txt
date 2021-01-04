@@ -1,0 +1,11 @@
+1./* 字体各属性前后顺序 */
+font: [font-style] [font-variant] [font-weight] [font-size]/[line-height] [font-family];
+
+2./* list 属性简短写法 */
+list-style: [list-style-type] [list-style-position] [list-style-image];
+
+3./* background 属性简短写法 */
+background: [background-color] [background-image] [background-repeat] [background-attachment] [background-position];
+
+4./* border 属性简短写法 */
+border: [border-width] [border-style] [border-color];
