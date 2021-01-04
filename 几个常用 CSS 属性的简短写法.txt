@@ -9,3 +9,15 @@ background: [background-color] [background-image] [background-repeat] [backgroun
 
 4./* border 属性简短写法 */
 border: [border-width] [border-style] [border-color];
+
+5./* margin 属性简短写法 */
+margin: margin-top margin-right margin-bottom margin-left;(上右下左）
+
+Margin 对于多个值有以下的简写规则：
+
+当只有一个值声明时，该值会用于所有四个值。
+当只有两个值声明时，第一个值用于上边距和下边距，第二个值用于左边距和右边距。
+当有三个值声明时，第一个值用于上边距，第二个值用于左边距和右边距，第三个值用于下边距。
+当有四个值声明时，其会按顺序用于上、右、下、左边距（按顺时针）。
+
+6.padding 和 margin 值的简写版本类似
