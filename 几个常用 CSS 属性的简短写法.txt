@@ -21,3 +21,7 @@ Margin 对于多个值有以下的简写规则：
 当有四个值声明时，其会按顺序用于上、右、下、左边距（按顺时针）。
 
 6.padding 和 margin 值的简写版本类似
+
+7.transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
+
+8.outline: [outline-width] [outline-style] [outline-color];
